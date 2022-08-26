@@ -1,7 +1,7 @@
 
 // Para visualizar os dados inseridos: "console.log(listNew)"
 var listNew = []
-for (var i = 1; i<=3; i++){
+for (var i = 1; i<=15; i++){
    var sex = prompt("Qual o seu sexo? M ou F");
    var altu = prompt("Qual a sua altura? (Ex: 1.67)");
    var alt = parseFloat(altu)
