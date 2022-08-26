@@ -1,0 +1,8 @@
+body{
+   background-image: radial-gradient(circle at -1.71% 36.14%, #ffffff 0, #e9f9ff 16.67%, #d0ecf8 33.33%, #b5def2 50%, #9ad0ed 66.67%, #81c2e8 83.33%, #6ab5e4 100%);
+   color:black;
+}
+
+#titulo{
+   text-align: center;
+}
